@@ -8,3 +8,4 @@
 Waseem0912-coder/Waseem0912-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Waseem GitHub stats](https://github-readme-stats.vercel.app/api?username=Waeem0912-coder&show_icons=true&theme=radical)
