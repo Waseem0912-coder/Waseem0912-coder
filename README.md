@@ -75,7 +75,11 @@ A **University of Florida MS in Computer Science** graduate with dual expertise 
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 28 January 2025 - To: 28 January 2025
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
