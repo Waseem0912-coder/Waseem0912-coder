@@ -80,8 +80,8 @@ A **University of Florida MS in Computer Science** graduate with dual expertise 
 
 
 ### Connect with Me
-- **LinkedIn:** [Waseem Ahmed](https://www.linkedin.com/in/waseem09/)
-- **Email:** ahmed.waseem.usa@gmail.com
+  **LinkedIn:** [Waseem Ahmed](https://www.linkedin.com/in/waseem09/)
+  **Email:** ahmed.waseem.usa@gmail.com
 
 
 </div> 
