@@ -59,7 +59,7 @@ A **University of Florida MS in Computer Science** graduate with dual expertise 
 
 #### **🎙️ Dialect-Aware Speech Recognition**  
 *ASR optimization for Indian accents*  
-- Fine-tuned Whisper LLM on 1,000+ dialect samples  
+- Fine-tuned ASR LLM on 23 dialect samples  
 - Achieved 27% WER improvement using HiperGator HPC  
 - Tech Stack: Python, OpenAI Whisper, Audio Processing
 
@@ -77,11 +77,11 @@ A **University of Florida MS in Computer Science** graduate with dual expertise 
 <!--END_SECTION:waka-->
 
 <div align="center">
-🤝 Let's Connect!
 
-Open to collaborations in AI/ML, data engineering, and full-stack development
 
-LinkedIn
-Email
+### Connect with Me
+- **LinkedIn:** [Waseem Ahmed](https://www.linkedin.com/in/waseem09/)
+- **Email:** ahmed.waseem.usa@gmail.com
+
 
 </div> 
