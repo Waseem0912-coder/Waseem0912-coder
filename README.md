@@ -1,108 +1,87 @@
-<!-- Header with dynamic GitHub stats & social badges -->
 <div align="center">
   
-# 👋 Hi, I'm Waseem Ahmed | Machine Learning Engineer & Full-Stack Developer
+# 👋 Hi, I'm Waseem Ahmed 
+**Machine Learning Engineer | Full-Stack Developer | Data Science **
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/waseem09/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/RSPE_20)
 [![Blog](https://img.shields.io/badge/📝-Blog-FF5722)](https://waseemahmed.in)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:ahmed.waseem.usa@gmail.com)
 
-**Actively seeking Full-Time Data Science/Machine Learning roles starting May 2025**  
-*Let’s decode data and build intelligent systems together!*
+*"Turning data whispers into actionable roars"*
 
 </div>
 
 ---
 
-### 🚀 **About Me**  
-I’m a **Machine Learning Engineer** with a knack for **Full-Stack Development**, driven by the belief that data is the universal language of innovation. My work revolves around training models to see patterns humans can’t and building interfaces to make those insights accessible.  
+### 🚀 **About Me**
+A **University of Florida MS in Computer Science** graduate with dual expertise in machine learning and full-stack development. I specialize in making complex AI systems accessible through robust engineering and intuitive interfaces. When not training vision-language models, you'll find me brewing pour-over coffee or practicing martial arts!
 
-- 🔭 **Current Focus:**  
-  **Fine-tuning vision-language models** (Open Clip, Florence, InterVL)  
-  **Architecting zero-shot testing frameworks** for multimodal AI systems  
-
-- 💡 **Core Belief:**  
-  *"Data isn’t just fuel for AI – it’s the lens through which we solve humanity’s hardest puzzles."*  
-
-- ⚡ **Fun Fact:**  
-  Debugged OpenAI’s Whisper model mid-caffeine crash at 3 AM… and still boosted Indian-accent transcription accuracy by 5%  
+- 🔭 **Currently Building:** Training VLM's and testing frameworks for Open Clip models on HiPerGator
+- 💡 **Core Philosophy:** *"Data without context is noise - my job is to find the symphony"*
+- ⚡ **Fun Fact:** Debugged a ASR model at 3 AM using!
 
 ---
 
-### 🛠️ **Technical Arsenal**  
+### 🛠️ **Technical Arsenal**
 
-#### **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+#### **AI/ML & Data Science**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
-
-#### **ML & Data Toolkit**  
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![SciKit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E)
+![SLURM](https://img.shields.io/badge/-SLURM-004D7F)
+
+#### **Full-Stack Development**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+
+#### **DevOps & Cloud**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions)
 
 ---
 
-### 🌟 **Highlighted Projects**  
+### 🌟 **Featured Projects**
 
-#### 🦜 **Zero-Shot Testing for Vision-Language Models**  
-- Built automated evaluation scripts for **Open Clip/Florence/InterVL**, reducing manual testing time by 40%  
-- Engineered GPU-optimized cosine similarity pipelines for 10K+ biological embeddings  
+#### **🦜 Zero-Shot VLM Evaluator**  
+*Automated testing framework for vision-language models*  
+- Built evaluation scripts for Open Clip/Florence/InterVL models  
+- Reduced manual testing time by 40% with parallel GPU processing  
+- Tech Stack: Python, PyTorch, SLURM, Multi-GPU Architecture
 
-#### 🎙️ **Whisper LLM for Indian Accents**  
-- Fine-tuned OpenAI’s Whisper model on **1,000+ dialect samples**, achieving **27% WER improvement**  
-- Designed Slurm workflows for HiperGator HPC cluster, processing 26 regional accents  
+#### **🎙️ Dialect-Aware Speech Recognition**  
+*ASR optimization for Indian accents*  
+- Fine-tuned Whisper LLM on 1,000+ dialect samples  
+- Achieved 27% WER improvement using HiperGator HPC  
+- Tech Stack: Python, OpenAI Whisper, Audio Processing
 
-#### 🏥 **Medical LLM for EHR Simplification**  
-- Trained on **50,000+ patient notes** to generate clinician-friendly summaries  
-- Integrated medical terminology dictionaries via NLP, boosting clinical relevance by 20%  
-
-#### 🌐 **Cuong Nhu Dojo Web Platform**  
-- Revamped user engagement by **40%** with React/Tailwind CSS frontend  
-- Architected REST APIs for real-time class scheduling and feedback analysis  
+#### **🏥 Medical Note Simplifier**  
+*LLM for EHR documentation*  
+- Trained on 50,000+ patient notes with medical dictionaries  
+- Boosted clinical relevance by 20% in generated summaries  
+- Tech Stack: HuggingFace Transformers, NLP Pipelines
 
 ---
 
-### 📊 **GitHub Activity**  
+### 📊 **Development Activity**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waseem0912-coder&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/Waseem0912-coder)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem0912-coder&layout=compact&theme=radical&hide_border=true)](https://github.com/Waseem0912-coder)
+🤝 Let's Connect!
 
-</div>
+Open to collaborations in AI/ML, data engineering, and full-stack development
 
----
+LinkedIn
+Email
 
-### 📚 **Latest Blog Posts**  
-<!-- Replace with actual blog links -->
-- [Zero-Shot Testing: Making VLMs Smarter Without Labels](https://waseemahmed.in/zero-shot-vlm)  
-- [When Speech Recognition Meets Cultural Diversity](https://waseemahmed.in/asr-dialects)  
-- [Full-Stack ML: Bridging Models and Interfaces](https://waseemahmed.in/fullstack-ml)  
-
----
-
-### 💡 **Philosophy**  
-> *"The best AI systems aren’t just accurate – they’re bridges between raw data and human intuition."*  
-
-When I’m not training models or debugging CUDA errors:  
-- 📖 Reading about neurosymbolic AI and computational creativity  
-- 🥋 Practicing Cuong Nhu martial arts (yes, I am working on their website!)  
-- ☕ Brewing Espresso coffee with algorithmic precision  
-
----
-
-<div align="center">
-  
-📫 **Let’s Collaborate!**  
-*Open to ML research, hackathons, and impactful data projects.*  
-
-[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/waseem09/)
-[![Email](https://img.shields.io/badge/-Reach_Out-D14836?logo=gmail)](mailto:ahmed.waseem.usa@gmail.com)
-
-</div>
+</div> ```
