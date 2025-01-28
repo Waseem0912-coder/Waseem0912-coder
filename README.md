@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Waseem Ahmed 
-**Machine Learning Engineer | Full-Stack Developer | Data Science **
+**Machine Learning Engineer | Full-Stack Developer | Data Science**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/waseem09/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/RSPE_20)
@@ -84,4 +84,4 @@ Open to collaborations in AI/ML, data engineering, and full-stack development
 LinkedIn
 Email
 
-</div> ```
+</div> 
